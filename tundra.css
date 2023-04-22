@@ -1,0 +1,70 @@
+ #theContent{padding-left: 20px;
+    display: block;
+    background-color: rgb(192, 181, 181);
+    
+ }
+ #title {
+    display: flex;
+    justify-content: center;
+} 
+
+.subtitleImg {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.underImg {display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.placeTitle {font-family: arabic-indic;
+font-size: 18px;
+color:rgb(255, 119, 0);}
+
+#globalLevel {
+    width:60%;
+    display: block;
+    margin:0 auto;
+    height: 400px
+}
+h1 {
+    font-size:50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(229, 172, 65);
+}
+#tundraBase {
+    display: block;
+    margin-left: 37%;
+    width: 60%;
+    height: 450px;
+
+}
+
+p{
+    padding-top: 7px;
+    width:95%;
+}
+span {background-color: orange;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 20px;}
+#blueSpan {background-color: rgb(61, 61, 212);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;}
+.subtitleImg img {width:30%;}
+h2{font-size:30px;}
+.iceSpan {
+    background-color: rgb(171, 222, 222);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 20px;
+}
+.greenSpan {
+    background-color: rgb(19, 222, 19);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 20px;
+}
+#firstContainter {
+    display: flex;
+    justify-content: flex-end;
+   
+}
